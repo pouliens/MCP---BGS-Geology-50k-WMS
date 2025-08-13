@@ -245,7 +245,3 @@ Get information about the BGS Geology 50K WMS service.
 - **Education**: Explore UK geological diversity and formation
 - **Mining and quarrying**: Identify mineral resources and extraction sites
 - **GIS applications**: Generate geological maps for spatial analysis
-
-## Contributing
-
-This MCP server provides a foundation for UK geological data access. Contributions welcome for additional BGS services, improved error handling, or extended dataset integration.
