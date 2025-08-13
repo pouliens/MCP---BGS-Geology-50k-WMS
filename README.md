@@ -10,9 +10,9 @@ This MCP server enables AI assistants to query comprehensive UK geological data 
 
 1. Click to Install to VS Code
 
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_BGS_Sensor_Data_Local-0098FF?style=flat-square&logo=visualstudiocode&logoColor=ffffff)](vscode:mcp/install?%7B%22name%22%3A%22BGS%20Sensor%20Data%20Local%22%2C%22type%22%3A%22stdio%22%2C%22command%22%3A%22cmd%22%2C%22args%22%3A%5B%22%2Fc%22%2C%22python%22%2C%22%25USERPROFILE%25%5C%5Cmcp%5C%5Cbgs-senor-data-mcp-server.py%22%2C%22--stdio%22%5D%7D)
+[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_BGS_Geology_50k_WMS_--_MCP_Server-0098FF?style=flat-square&logo=visualstudiocode&logoColor=ffffff)](vscode:mcp/install?%7B%22name%22%3A%22BGS%20Geology%2050k%20WMS%22%2C%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fbgs-geology-50k-wms.fastmcp.app%2Fmcp%22%7D)
 
-2. Open VS Code toggle Co-Pilot on
+2. Open VS Code and toggle Co-Pilot on
 3. Switch to Agent Mode
 4. (optional) Check if you're connected to the MCP
 5. Start asking questions about UK geology! If you want the data to be visualised or captured somewhere ask AI to create an HTML file, jupyter notebook, or store the data in CSV file.
